@@ -54,7 +54,7 @@ div.image-footer {
   display: block;
 }
 
-image-caption {
+.image-caption {
   float: left;
   display: inline-block;;
   align-content: flex-start;
